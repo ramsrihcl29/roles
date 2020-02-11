@@ -1,4 +1,4 @@
-class roles::rhel7::base {
+class roles::centos7::base {
   include profiles::os::linux::base_centos7
 
 }
